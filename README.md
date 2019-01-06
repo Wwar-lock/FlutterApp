@@ -16,5 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 # FlutterApp 
 
-This contains the code of grid layout as in flutter "one language and 2 platforms(Android & iOS)"
-![alt text](/home/warlock/Pictures/Screenshot from 2019-01-07 00-13-05.png)
+This contains the code of grid layout as in flutter "1 language and 2 platforms(Android & iOS)"
+![screenshot from 2019-01-07 00-13-05](https://user-images.githubusercontent.com/40459066/50736489-43401680-11e4-11e9-90fc-f8572cae7ac6.png)
+
